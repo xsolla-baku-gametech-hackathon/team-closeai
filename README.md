@@ -4,6 +4,19 @@
 > ⚠️ **NOTE FOR REVIEWERS & JUDGES:** 
 > Due to the massive scale of the project files (approximately **~46,000 files** including URP assets, dependencies, and procedural generations), pushing changes commit-by-commit was technically unfeasible. Therefore, the total commit count on this repository might appear low, as the project architecture was pushed in large, consolidated batches.
 
+<div align="center">
+
+# 🚀 Team CloseAI - Project Name
+
+[![Website](https://img.shields.io/badge/🌐_Live_Website-Visit_Website-brightgreen?style=for-the-badge)](https://netsghost.replit.app/)
+
+> **You can check out the live version and details of the project from the link below:**
+> 👉 **[netsghost.replit.app](https://netsghost.replit.app/)**
+
+</div>
+
+---
+
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%2B-black?logo=unity)](#)
 [![Render Pipeline](https://img.shields.io/badge/Pipeline-URP-blue)](#)
 [![Architecture](https://img.shields.io/badge/Complexity-O(1)-success)](#)
