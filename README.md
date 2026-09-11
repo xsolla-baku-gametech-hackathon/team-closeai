@@ -44,7 +44,20 @@ As the packet loss prolongs, the system's margin of error increases. This error 
 ### 3. Reconciliation Phase ($C^2$ Continuity)
 When a new authoritative network packet finally arrives, the object is not visually teleported instantly. Instead, a 5th-degree Hermite polynomial curve ($S(t) = 6t^5 - 15t^4 + 10t^3$) is applied, zeroing out velocity and acceleration spikes during the transition. This results in flawless visual continuity that is completely imperceptible to the human eye.
 
----
+bash
+📦 Inertial-Netcode-Project
+ ┣ 📂 Assets
+ ┃ ┣ 📂 Editor
+ ┃ ┃ ┗ 📜 AutoBuildDemoScene.cs     # 1-Click Səhnə Avtomatlaşdırması
+ ┃ ┣ 📂 InertialNetcodeDemo
+ ┃ ┃ ┣ 📂 Scripts
+ ┃ ┃ ┃ ┣ 📜 TargetMovement.cs       # Dairəvi Orbit Kinematikası
+ ┃ ┃ ┃ ┣ 📜 InertialNetcodeDummy.cs # C² Bərpa və Ekstrapolasiya Alqoritmi
+ ┃ ┃ ┃ ┣ 📜 ClassicNetcodeDummy.cs  # Standart (Freeze & Snap) Alqoritm
+ ┃ ┃ ┃ ┣ 📜 RotateEarth.cs          # Fırlanma Fizikası
+ ┃ ┃ ┃ ┗ 📜 DemoUIController.cs     # Telemetriya (Ping/MS) İdarəedicisi
+ ┃ ┣ 📂 Textures                    # URP PBR Materialları (Sun & Earth)
+ ┃ ┗ 📜 README.md                   # Sənədləşdirmə
 
 ## 🚀 Installation & 1-Click Startup
 
@@ -76,6 +89,5 @@ This project is built with the highest standards of editor automation. There is 
 <br>
 
 <div align="center">
-  <sub>Author: closeAI Team           
-     **Open your eyes to see closeAI.** </sub>
+  <sub>Author: closeAI Team --> Open your eyes to see closeAI. </sub>
 </div>
