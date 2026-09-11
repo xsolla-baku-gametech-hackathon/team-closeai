@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🌌 NetGHOST
-**Jitter-Free, Mathematically Driven Network Simulation (Unity URP)**
+> ⚠️ **NOTE FOR REVIEWERS & JUDGES:** 
+> Due to the massive scale of the project files (approximately **~46,000 files** including URP assets, dependencies, and procedural generations), pushing changes commit-by-commit was technically unfeasible. Therefore, the total commit count on this repository might appear low, as the project architecture was pushed in large, consolidated batches.
 
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%2B-black?logo=unity)](#)
 [![Render Pipeline](https://img.shields.io/badge/Pipeline-URP-blue)](#)
@@ -16,7 +17,7 @@
 
 ## 📖 About the Project
 
-**Inertial Kinematic Netcode** is an innovative architecture designed to prevent the jarring teleportation (*rubberbanding*) of objects during network interruptions (packet loss) and sudden ping spikes in multiplayer or real-time simulation environments.
+**NetGHOST** is an innovative architecture designed to prevent the jarring teleportation (*rubberbanding*) of objects during network interruptions (packet loss) and sudden ping spikes in multiplayer or real-time simulation environments.
 
 Unlike traditional, heavy *Rollback* and *Resimulation* systems, this project decouples the server and visual layers. Instead of recalculating past frames, it uses kinematic formulas and polynomial curves to deliver a **perfectly smooth, zero-CPU-strain ($< 0.05\text{ ms}$)** visual experience.
 
@@ -66,7 +67,7 @@ This project is built with the highest standards of editor automation. There is 
 
 ---
 
-## 🛠 Technical Highlights (Pitch Points)
+## 🛠 Technical Highlights
 
 * 🎯 **Time-Domain Precision (FPS-Agnostic):** Whether the application runs at 30, 60, or 144 FPS makes no difference—the algorithm is bound to real-time math, not frame rates.
 * 🧩 **Decoupled Engine Architecture:** The server's logic and the client's visualization are entirely separate. This allows easy integration into any physics engine or custom protocol.
@@ -75,5 +76,5 @@ This project is built with the highest standards of editor automation. There is 
 <br>
 
 <div align="center">
-  <sub>Author: Ümid Əsədov</sub>
+  <sub>Author: closeAI Team           **Open your eyes to see closeAI.**</sub>
 </div>
