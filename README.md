@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Inertial Kinematic Netcode
+# 🌌 NetGHOST
 **Jitter-Free, Mathematically Driven Network Simulation (Unity URP)**
 
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%2B-black?logo=unity)](#)
