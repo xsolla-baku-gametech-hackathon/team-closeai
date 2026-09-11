@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 🚀 Team CloseAI - Project Name
+# 🚀 Team CloseAI - NetGHOST
 
 [![Website](https://img.shields.io/badge/🌐_Live_Website-Visit_Website-brightgreen?style=for-the-badge)](https://netsghost.replit.app/)
 
