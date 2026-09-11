@@ -76,5 +76,6 @@ This project is built with the highest standards of editor automation. There is 
 <br>
 
 <div align="center">
-  <sub>Author: closeAI Team           **Open your eyes to see closeAI.**</sub>
+  <sub>Author: closeAI Team           
+     **Open your eyes to see closeAI.** </sub>
 </div>
